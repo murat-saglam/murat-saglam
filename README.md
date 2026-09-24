@@ -2,7 +2,7 @@
 
 **Senior AI/ML & Backend Engineer. I build production ML systems in Python and Go.**
 
-I have 19 years in software and 10+ years shipping machine learning to production. I built speech-AI platforms that process **2.5M+ calls per month** (Whisper, LLMs, Kubernetes, GCP) and, most recently, a full-stack **computer-vision product end to end as founding engineer**. I led an AI lab of 15 engineers, and I choose to stay hands-on: designing, coding, deploying and measuring.
+I have 19 years in software and 10+ years shipping machine learning to production. I built speech-AI platforms that process **2.5M+ calls per month** (Whisper, LLMs, Kubernetes, GCP) and, most recently, a full-stack **computer-vision product end to end as co-founder and sole engineer at [Machine Mode](https://machinemode.studio)**. I led an AI lab of 15 engineers, and I choose to stay hands-on: designing, coding, deploying and measuring.
 
 📍 Izmir, Türkiye · open to remote · [LinkedIn](https://www.linkedin.com/in/-murat-saglam) · muratsaglam0x1@gmail.com
 
