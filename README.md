@@ -10,7 +10,7 @@ I have 19 years in software and 10+ years shipping machine learning to productio
 
 ### 🔧 What I work with
 
-**Languages:** Python · Go · TypeScript · SQL · C (WebAssembly)
+**Languages:** Python · Go · Rust · TypeScript · SQL · C (WebAssembly)
 **AI / ML:** PyTorch · Hugging Face Transformers · Whisper · pyannote · NVIDIA NeMo · YOLO · ByteTrack · SigLIP · scikit-learn
 **LLMs:** Claude · Gemini · GPT · RAG · multi-agent systems · structured outputs · pgvector · ChromaDB
 **Backend:** FastAPI · gRPC · REST · WebSockets · PostgreSQL · Redis · RabbitMQ · Pub/Sub · Elasticsearch · MongoDB · BigQuery
@@ -23,6 +23,7 @@ I have 19 years in software and 10+ years shipping machine learning to productio
 
 | Project | What it shows |
 |---|---|
+| [**bytetrack-rs**](https://github.com/murat-saglam/bytetrack-rs) · [live demo](https://murat-saglam.github.io/bytetrack-rs/) | ByteTrack multi-object tracking in **Rust**: ID-identical to `supervision.ByteTrack` on 1.1M tracked detections, **24–67x faster** from Python (PyO3), and a 62 KB WebAssembly build tracking a simulated football match in the browser. |
 | [**ai-drill-manager-case-study**](https://github.com/murat-saglam/ai-drill-manager-case-study) | Football video analytics I built alone: YOLO + ByteTrack + pitch calibration → event mining → MILP planner, on Cloud Run GPU workers. Includes how a hand-labelled gold set and an open-source model cut position error **5x (4.15 m → 0.78 m)**. |
 | [**call-insights-mini**](https://github.com/murat-saglam/call-insights-mini) | Runnable reference version of a production speech-analytics pattern: audio → Whisper → Claude structured outputs → FastAPI, with a labelled evaluation in CI. |
 | [**the-watch-agent**](https://github.com/murat-saglam/the-watch-agent) | 11 LLM agents that run a YouTube channel, from trend to publication: event-driven state machine, RAG memory, model tiering, human-in-the-loop approval. |
